@@ -1,0 +1,14 @@
+access_key: "TODO"
+slave_instance_id: "TODO"
+count: 1000
+output_filepath: "/home/ubuntu/supreme_selenium/results/output"
+billing_info_excel: "/home/ec2-user/billing_server/billinginfo.xlsx"
+startup_script: "#!/bin/bash\n/bin/bash /home/ubuntu/supreme_selenium/startup_script.sh"
+billing_path: "/home/ec2-user/billing_server/billing/"
+item_keywords:
+        - "Checker"
+        - "Plaid"
+        - "Flannel"
+        - "shIrt"
+drop_link: "http://www.supremenewyork.com/mobile"
+category: "shirts"
